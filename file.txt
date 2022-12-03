@@ -2,3 +2,4 @@ A
 B
 Pridano z Lenova
 Pridano z Lenova pomoci ssh autentikace
+aaa
